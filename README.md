@@ -1,6 +1,6 @@
 # Photosorter
 ## Description
-This respository cointains a python script that allows you to sort your photos.
+This respository cointains a python script that allows you to sort your photos.                                                 
 It uses the exif data of the photos to keep them nicely organized.
 
 ## Brief Story
