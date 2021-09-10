@@ -8,13 +8,11 @@ I've a external drive to keep my photos, and due to I wanted to sort them I sear
 So I finally did what Alex told me to do in first place which was writting an script by myself, and there it is.                                          
 Please feel free to open issues/pull requests, suggest or ask whatever you want.
 
-## Requirements
-As you will have to run the program without installing anything you must have the libraries used in the script to run it.                             
-They are _exif_, _Pillow_ and _pathlib_ :
+## Installation
 ```
-pip install exif
-pip install Pillow
-pip install pathlib
+git clone https://github.com/miquelt9/Photosorter.git
+cd Photosorter
+pip3 install -r requirements.txt
 ```
     
 ## Running the script
