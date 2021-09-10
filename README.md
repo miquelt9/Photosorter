@@ -18,7 +18,7 @@ pip install pathlib
 ```
     
 ## Running the script
-To run the script the script you'll have to:
+To run the script the script you'll have to download the photosorter.py file and run it in the folder you want (I actually recommend to do it in the upper folder where the photos you wanna sort are)
 ```
 python photosorter.py
 ```
