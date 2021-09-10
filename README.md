@@ -26,5 +26,6 @@ Then you'll be asked to answer some question to configure the program
 
 ## Versions
 #### 10/09/2021
-The script is actually in beta version. 
-It only will be in  beta meanwhile reconfiguring issue is open (WIP)
+The script is actually in beta version.                                                              
+It only will be in  beta meanwhile reconfiguring issue is open (WIP)                                                     
+Sorry for the personal comments i will work further into the documentation of the script
