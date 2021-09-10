@@ -18,7 +18,7 @@ pip install pathlib
 ```
     
 ## Running the script
-To run the script the script you'll have to download the photosorter.py file ([src folder](https://github.com/miquelt9/Photosorter/tree/miquelt9-patch-1/src))and run it in the folder you want (I actually recommend to do it in the upper folder where the photos you wanna sort are)
+To run the script the script you'll have to download the photosorter.py file ([src folder](https://github.com/miquelt9/Photosorter/tree/miquelt9-patch-1/src)) and run it in the folder you want (I actually recommend to do it in the upper folder where the photos you wanna sort are)
 ```
 python photosorter.py
 ```
