@@ -1,4 +1,11 @@
 # Photosorter
+[![HitCount](https://hits.dwyl.com/miquelt9/Photosorter.svg?style=flat-square&show=unique)](http://hits.dwyl.com/miquelt9/Photosorter)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&show=unique)](https://github.com/miquelt9/Photosorter)
+[![GitHub stars](https://img.shields.io/github/stars/miquelt9/Photosorter.svg)](https://GitHub.com/miquelt9/Photosorter/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/miquelt9/Photosorter.svg)](https://GitHub.com/miquelt9/Photosorter/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/miquelt9/Photosorter.svg)](https://github.com/miquelt9/Photosorter)
+[![GitHub contributors](https://img.shields.io/github/contributors/miquelt9/Photosorter.svg)](https://GitHub.com/miquelt9/Photosorter/graphs/contributors/)
+
 ## Description
 This respository cointains a python script that allows you to sort your photos.                                                 
 It uses the exif data of the photos to keep them nicely organized.
